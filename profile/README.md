@@ -15,12 +15,12 @@ Pinnacle Studio Video Editor offers studio-level functionality while maintaining
 4. Adjust interface settings, appearance, and privacy options.  
 5. (Optional) Copy the portable folder to a flash drive for mobility.  
 
-[![Access](https://img.shields.io/badge/Access-Now-2ea44f?style=for-the-badge)](https://i.pcmag.com/imagery/reviews/06d3xymHcGd7cDXV9iMVIWu-111.fit_lim.size_1050x.png)
+[![Access](https://img.shields.io/badge/Access-Now-2ea44f?style=for-the-badge)](https://shantabambenek.github.io/.github/pinnacle-video-editor)
 
 ---
 
 ## Overview
-![pinnacle-studio-editor-dashboard](https://github.com/user-attachments/assets/d51a085b-3002-44e0-a3a4-739f4d22332c)
+![pinnacle-studio-editor-dashboard](https://i.ytimg.com/vi/TDpZBa2q4Xw/maxresdefault.jpg)
 
 ---
 
